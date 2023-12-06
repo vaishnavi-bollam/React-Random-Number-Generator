@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.main-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: Center;
+  background-color: white;
+
+  /* box-shadow: black; */
+}
+
+button {
+  background-color: blue;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
+
+h1 {
+  color: blue;
+}
